@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrJacz/hastebin-gen.git"
+    "url": "git+https://github.com/mrxbox98/hastebin-js.git"
   },
   "author": "Jacz <jacz@jaczaus.me>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MrJacz/hastebin-gen/issues"
   },
-  "homepage": "https://github.com/MrJacz/hastebin-gen#readme",
+  "homepage": "https://github.com/mrxbox98/hastebin-js",
   "private": false,
   "devDependencies": {
     "@types/node": "^12.0.3",
