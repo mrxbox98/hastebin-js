@@ -8,7 +8,7 @@ module.exports = async (input, options = {}) => {
     const url = "url" in options ? options.url : "https://hastebin.com";
     const extension = "extension" in options ? options.extension : "js";
 
-    const res = await fetch(`${url}/documents`, {
+    const res = await fetch(`${url}`, {
         method: "POST",
         body: input,
         headers: { "Content-Type": "text/plain" }
