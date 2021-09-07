@@ -6,7 +6,7 @@
 [![NPM](https://nodei.co/npm/hastebin-paste.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/hastebin-paste/)
 
 
-# hastebin-gen
+# @mrxbox98/hastebin-js
 A npm module for generating hastebin links. 
 https://www.npmjs.com/package/hastebin-paste
 
